@@ -1,0 +1,8 @@
+2026-03-06 20:36:03 - Inicio del proceso de conciliación
+2026-03-06 20:36:14 - Ruta BanRed ingresada: C:\Users\Dana\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\BanRed.txt
+2026-03-06 20:36:22 - Ruta ProCredit ingresada: C:\Users\Dana\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\ProCredit.txt
+2026-03-06 20:36:22 - Archivo BanRed leído. Registros: 19
+2026-03-06 20:36:22 - Archivo ProCredit leído. Registros: 19
+2026-03-06 20:36:22 - Comparación realizada
+2026-03-06 20:36:22 - Resultado final: EXITOSA
+2026-03-06 20:36:22 - Fin del proceso de conciliación
